@@ -13,12 +13,12 @@ body {
   /*background-size: cover;*/
 }
 @-webkit-keyframes backgroundimg {
-  0% {background-image: url("../img/logomark_gray_1e.png");}
-  50% {background-image: url("../img/logomark_gray_2e.png");}
-  100% {background-image: url("../img/logomark_gray_1e.png");}
+  0% {background-image: url("../img/logomark_gray_2e.png");}
+  50% {background-image: url("../img/logomark_gray_1e.png");}
+  100% {background-image: url("../img/logomark_gray_2e.png");}
 }
 @keyframes backgroundimg {
-  0% {background-image: url("../img/logomark_gray_1e.png");}
-  50% {background-image: url("../img/logomark_gray_2e.png");}
-  100% {background-image: url("../img/logomark_gray_1e.png");}
+  0% {background-image: url("../img/logomark_gray_2e.png");}
+  50% {background-image: url("../img/logomark_gray_1e.png");}
+  100% {background-image: url("../img/logomark_gray_2e.png");}
 }
