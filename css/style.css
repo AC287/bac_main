@@ -13,12 +13,20 @@ body {
   /*background-size: cover;*/
 }
 @-webkit-keyframes backgroundimg {
-  0% {background-image: url("../img/logomark_gray_2e.png");}
-  50% {background-image: url("../img/logomark_gray_1e.png");}
-  100% {background-image: url("../img/logomark_gray_2e.png");}
+  0% {background-image: url("../img/logomark_gray_2e2.png");}
+  40% {background-image: url("../img/logomark_gray_1e2.png");}
+  100% {background-image: url("../img/logomark_gray_2e2.png");}
 }
 @keyframes backgroundimg {
-  0% {background-image: url("../img/logomark_gray_2e.png");}
-  50% {background-image: url("../img/logomark_gray_1e.png");}
-  100% {background-image: url("../img/logomark_gray_2e.png");}
+  0% {background-image: url("../img/logomark_gray_2e2.png");}
+  40% {background-image: url("../img/logomark_gray_1e2.png");}
+  100% {background-image: url("../img/logomark_gray_2e2.png");}
+}
+.header-main {
+  text-align: center;
+  margin-top: 100px;
+}
+.choices {
+  text-align: center;
+  margin-top: 100px;
 }
